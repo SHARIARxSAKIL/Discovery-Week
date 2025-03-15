@@ -1,1 +1,2 @@
-# Discovery-Week
+Run 
+streamlit run project.py   
