@@ -1,2 +1,1 @@
-Run 
-streamlit run project.py   
+ streamlit run project.py   
